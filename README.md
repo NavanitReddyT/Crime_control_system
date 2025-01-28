@@ -1,6 +1,6 @@
 # Crime_control_system
 
-This is a C++-based application designed to provide a streamlined system for managing and reporting crimes. The system facilitates two main user types: Public users and Authority users. Public users can sign up to report incidents, specifying details such as case type, location, and description. These incident reports are dynamically stored as individual text files in the system's designated folder. Authority users, on the other hand, can sign in to search and view these reports using keywords, which are matched against both filenames and file content. The system implements several key features, including user authentication, dynamic memory allocation, file handling, and keyword-based search functionality.
+This is a C++ based application designed to provide a streamlined system for managing and reporting crimes. The system facilitates two main user types: Public users and Authority users. Public users can sign up to report incidents, specifying details such as case type, location, and description. These incident reports are dynamically stored as individual text files in the system's designated folder. Authority users, on the other hand, can sign in to search and view these reports using keywords, which are matched against both filenames and file content. The system implements several key features, including user authentication, dynamic memory allocation, file handling, and keyword-based search functionality.
 
 Features: Public Users:
 
